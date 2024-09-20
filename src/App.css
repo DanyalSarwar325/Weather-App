@@ -1,0 +1,12 @@
+.heading{
+  text-align: center;
+}
+.box{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.boxContent{
+ display: flex;
+ justify-content: center;
+ 
+}
